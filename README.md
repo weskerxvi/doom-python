@@ -84,9 +84,3 @@ As dependências estão fixadas em `requirements.txt`:
 pygame==2.6.1
 ```
 
-## Contribuidores
-
-- [weskerxvi](https://github.com/weskerxvi) — responsável pelo repositório.
-- **OpenAI Codex** — assistência na implementação e na documentação deste projeto.
-
-O crédito ao OpenAI Codex identifica a assistência de IA neste README. O gráfico automático de contribuidores do GitHub associa commits a contas por e-mail; não há uma conta GitHub própria do Codex para vincular a esse gráfico.
