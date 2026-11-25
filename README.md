@@ -84,3 +84,7 @@ As dependências estão fixadas em `requirements.txt`:
 pygame==2.6.1
 ```
 
+## Contribuidores
+
+- [weskerxvi](https://github.com/weskerxvi) — responsável pelo projeto.
+- [OpenAI Codex](https://github.com/codex) — assistência na implementação, depuração e documentação.
